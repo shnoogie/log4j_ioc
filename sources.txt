@@ -2,3 +2,9 @@
 -- https://github.com/Malwar3Ninja/Exploitation-of-Log4j2-CVE-2021-44228/blob/main/Threatview.io-log4j2-IOC-list
 -- https://cert-agid.gov.it/download/log4shell-iocs.txt
 -- https://raw.githubusercontent.com/Azure/Azure-Sentinel/master/Sample%20Data/Feeds/Log4j_IOC_List.csv
+
+- Domains
+-- https://cert-agid.gov.it/download/log4shell-iocs.txt
+
+- SHA256
+-- https://cert-agid.gov.it/download/log4shell-iocs.txt
